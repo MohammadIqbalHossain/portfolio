@@ -8,7 +8,7 @@ function Header() {
     return (
         <>
 
-            <nav className="relative flex flex-wrap items-center justify-between py-6 bg-[#F5F9FF] px-20 fixed">
+            <nav className="relative flex flex-wrap items-center justify-between py-6 bg-[#F5F9FF] px-20 top-0 sticky ">
                 <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
                     <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
                         <Link

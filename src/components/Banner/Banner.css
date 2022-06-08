@@ -1,0 +1,12 @@
+.gradinet-text {
+    background: linear-gradient(to right, #649AFD, #7B8FFC,
+            #8E86FB, #AC78F9);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.thicker-font{
+    font-weight: 900;
+    font-family: Verdana, Arial, Helvetica, sans-serif
+     
+}
