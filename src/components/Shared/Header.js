@@ -16,7 +16,7 @@ function Header() {
                             className="text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-black"
                             to="/"
                         >
-                            Portfolio
+                            Iqbal
                         </Link>
                         <button
                             className="text-black cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg- block lg:hidden outline-none focus:outline-none w"

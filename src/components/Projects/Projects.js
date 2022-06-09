@@ -16,7 +16,7 @@ const Projects = () => {
     return (
 
         <>
-            <h1>My Projets</h1>
+            <h1 className="text-3xl uppercase font-bold gradinet-text">My Projets</h1>
             <div className="flex gap-10 flex-wrap mx-10 md:mx-0 justify-center items-center my-20">
                 <div className="w-[500px] rounded-3xl shadow-xl bg-white hover:bg-[#60ECB6]">
                     <div className="flex justify-center">
