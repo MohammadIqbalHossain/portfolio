@@ -79,7 +79,7 @@ const Projects = () => {
 
                         <div className="flex justify-between">
                             <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left my-5 rounded-3xl mb-5" >
-                                <a href="https://drive.google.com/file/d/11tofjXZEhTKN9VybL-MpvfOQ_nQeXDXJ/view?usp=sharing" target="blank">
+                                <a href="https://warehouse-site.web.app/" target="blank">
                                     Preview
                                 </a>
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
@@ -123,7 +123,7 @@ const Projects = () => {
 
                         <div className="flex justify-between">
                             <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left my-5 rounded-3xl mb-5" >
-                                <a href="https://drive.google.com/file/d/11tofjXZEhTKN9VybL-MpvfOQ_nQeXDXJ/view?usp=sharing" target="blank">
+                                <a href="https://rocket-rock-cce05.web.app/" target="blank">
                                     Preview
                                 </a>
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
