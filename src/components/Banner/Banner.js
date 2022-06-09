@@ -10,7 +10,7 @@ const Banner = () => {
                 <h1 className="thicker-font md:text-[50px] text-[40px] text-left xs:leading-10 leading-tight">Hello, <br /> I am <span className="gradinet-text">Mohammad Iqbal Hossain</span> I am a web Developer</h1>
 
                 <p className="text-left  py-5 text-2xl text-gray-400">
-                    Showcase your skills with practical development experience and land the coding career of your dreams
+                    I am a Mern stack developer. I love to make beautiful UI and develop something that matters. Welcome to my Portdolio.
                 </p>
 
                 <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left rounded-3xl mb-5" >
