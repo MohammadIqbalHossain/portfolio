@@ -24,6 +24,7 @@ const Banner = () => {
             <div className="md:w-[550px] ">
                 <img className="hidden md:block" src={bannerImage} alt="" />
             </div>
+           
         </div>
     );
 };

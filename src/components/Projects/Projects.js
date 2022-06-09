@@ -5,6 +5,8 @@ import project1 from '../../images/assignment-10.png';
 import project2 from '../../images/ware-house-book-ss.png';
 import project3 from '../../images/breathing-knowlage.png';
 import project4 from '../../images/space-tourism-site.png';
+import Contact from '../ContactMe/Contact';
+
 const Projects = () => {
 
     const [cliked, setCliked] = useState(false)
@@ -170,6 +172,7 @@ const Projects = () => {
                 </div>
 
             </div>
+            <Contact />
         </>
     );
 };
