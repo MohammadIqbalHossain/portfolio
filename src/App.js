@@ -5,6 +5,7 @@ import Header from './components/Shared/Header';
 import AllProjects from './components/AllProjects/AllProjects';
 import Details from './components/AllProjects/ProjectDetails/Details';
 import Contact from './components/ContactMe/Contact';
+import Blogs from './components/Blogs/Blogs';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
          <Route path='/' element={<Home />}></Route>
          <Route path='/allProjects' element={<AllProjects />}></Route>
          <Route path='/details/:id' element={<Details />}></Route>
+         <Route path='/blogs' element={<Blogs />}></Route>
        </Routes>
        <Contact />
     </div>

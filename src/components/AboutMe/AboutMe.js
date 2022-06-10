@@ -17,7 +17,7 @@ const AboutMe = () => {
                 </p>
 
                 <p className="text-right my-10">-Mohammad Iqbal</p>
-                <div className="mb-[500px]">
+                <div className="mb-[500px] hidden md:block">
                     <img src={image} className="w-[150px] mb-102"  alt="Hello"/>
                 </div>
             </div>
