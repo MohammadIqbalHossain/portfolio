@@ -56,15 +56,16 @@ const Details = () => {
 
                             </div>
                             <h1 className="thicker-font md:text-[50px] text-[40px] text-left xs:leading-10 leading-tight">
-                                Very <span className="gradinet-text">VIP project with React.js</span> and making it <span className="gradinet-text">furthur better</span>
+                            {filteredProject[0]?.title.slice(0, 60)}
+                                 <span className="gradinet-text">{filteredProject[0]?.title.slice(60, 80)}</span> and making it <span className="gradinet-text">{filteredProject[0]?.title.slice(80, 200)}</span>
                             </h1>
 
                             <p className="text-gray-400 text-2xl text-left my-10">
-                                Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Material UI, Alan AI, and more to provide hands-on, practical experience for intermediate to expert software developers seeking fulfilling opportunities within their career.
+                            {filteredProject[0]?.firstDetail}
                             </p>
 
                             <p className="text-gray-400 text-2xl text-left my-10">
-                                Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Material UI, Alan AI, and more to provide hands-on, practical experience for intermediate to expert software developers seeking fulfilling opportunities within their career.
+                            {filteredProject[0]?.secondDetail}
                             </p>
 
 

@@ -7,7 +7,10 @@
         "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex perferendis    odio odit expedita repellendus ducimus sed, cumque a porro explicabo.",
         "preview": "https://writer-personal-site.web.app/",
         "serverCode": "",
-        "clinetCode": "https://github.com/MohammadIqbalHossain/writer-personal-website"
+        "clinetCode": "https://github.com/MohammadIqbalHossain/writer-personal-website",
+        "title": "The website made with popular React.js very beutifully desiged webpages and making it further better",
+        "firstDetail": "This is a website for a prosnal writing blog, Mohammad Iqbal hossain is a journalist and writer he writes in various different topics. like Journal , Doucumatation, Personal blogs, Books, an also he writes a books",
+        "secondDetail": "One of his book is 'A good way of living' This website represets his every work, Those who I want to work with him or hire him they can see details about his works. and contact for a work."
     },
     {
         "_id": "62a23ab882e6a458e8a1c480",
@@ -17,7 +20,10 @@
         "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex perferendis    odio odit expedita repellendus ducimus sed, cumque a porro explicabo.",
         "preview": "https://rocket-rock-cce05.web.app/",
         "serverCode": "https://github.com/MohammadIqbalHossain/Spaceship-engine-manufecturer-server-site",
-        "clinetCode": "https://github.com/MohammadIqbalHossain/Spaceship-engine-manufecturer-website"
+        "clinetCode": "https://github.com/MohammadIqbalHossain/Spaceship-engine-manufecturer-website",
+        "title": "A space ships company has to be owner of a great website, So that it mathced thire premiumness, And the're people can be proud of about site.",
+        "firstDetail":"RocketRock is a website for a manufecturer company, they makes rocket engine and different parts. and sell them to the other company like blue origin, spaceX, Nasa, they makes copanys desierd engine." ,
+        "secondDetail": "RocketRock has great engineers, who research for the engine and differant parts of the engine so, the rocket can be more worthy and beautiful. and also powerful"
     },
     {
         "_id": "62a23ab8e06a1721e62a02eb",
@@ -27,7 +33,10 @@
         "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex perferendis    odio odit expedita repellendus ducimus sed, cumque a porro explicabo.",
         "preview": "https://warehouse-site.web.app/",
         "serverCode": "https://github.com/MohammadIqbalHossain/warehouse-management-server-site",
-        "clinetCode": "https://github.com/MohammadIqbalHossain/warehouse-management-client-site"
+        "clinetCode": "https://github.com/MohammadIqbalHossain/warehouse-management-client-site",
+        "title": "Book is the true friend of a person. MerchEasy whole seels the rareest book of the era.",
+        "firstDetail":"Merch easy is a company they sells book, I maked Website for them m this website has a showcase section hich show all books and a details button if you click on the button it will take you to the details page. details page displays that book details." ,
+        "secondDetail": "You can deliver If you are a admin, and add books to the database, T buy books You have to buy desied books quantity, you can increase ans decrease the quantity. the're a lot of fetaure also have you can explore the site."
     },
     {
         "_id": "62a23ab890f467979d15ab87",
@@ -37,7 +46,10 @@
         "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex perferendis    odio odit expedita repellendus ducimus sed, cumque a porro explicabo.",
         "preview": "https://mohammadiqbalhossain.github.io/Space-tourism-site/",
         "serverCode": "",
-        "clinetCode": "https://github.com/MohammadIqbalHossain/Space-tourism-site"
+        "clinetCode": "https://github.com/MohammadIqbalHossain/Space-tourism-site",
+        "title": "SpaceThrough is a challenge of front-ent mentor I accepted the challenge and made this beautiful UI.",
+        "firstDetail":"This website has a banner ans a great button whick expands If you hover on it. If you click the button it will take you to the destiantion page which show you different destination of space traveller. " ,
+        "secondDetail": "Also have something special crew page and crew page show details about all crews and have technoloy page it display thecnoloy whch using this company."
     }
     
 ]
