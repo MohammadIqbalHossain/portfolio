@@ -56,7 +56,7 @@ function Header() {
                             <li className="nav-item">
                                 <Link
                                     className="px-3 py-2 flex items-center text-sm uppercase font-bold leading-snug text-black hover:opacity-75"
-                                    to="/inventory"
+                                    to="/allProjects"
                                 >
                                     <span className="ml-2">Projects</span>
                                 </Link>

@@ -6,12 +6,11 @@ import project2 from '../../images/ware-house-book-ss.png';
 import project3 from '../../images/breathing-knowlage.png';
 import project4 from '../../images/space-tourism-site.png';
 import Contact from '../ContactMe/Contact';
+import { Link } from 'react-router-dom';
 
-const Projects = () => {
+const Projects = ({projectInfo}) => {
 
     const [cliked, setCliked] = useState(false)
-
-    console.log(cliked);
 
     return (
 
@@ -36,6 +35,13 @@ const Projects = () => {
                                 <a href="https://writer-personal-site.web.app/" target="blank">
                                     Preview
                                 </a>
+                                <AiOutlineArrowRight className="ml-5 font-bold" />
+                            </button>
+
+                            <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left my-5 rounded-3xl mb-5" >
+                                <Link to="/details">
+                                    Details
+                                </Link>
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
                             </button>
 
@@ -87,6 +93,13 @@ const Projects = () => {
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
                             </button>
 
+                            <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left my-5 rounded-3xl mb-5" >
+                                <Link to="/details">
+                                    Details
+                                </Link>
+                                <AiOutlineArrowRight className="ml-5 font-bold" />
+                            </button>
+
                             <button onClick={() => setCliked(!cliked)} className="bg-blue-400 rounded-3xl my-5 px-3 transition">
 
                                 <BiCodeAlt className="text-2xl" />
@@ -131,6 +144,12 @@ const Projects = () => {
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
                             </button>
 
+                            <button className="bg-blue-400 flex items-center font py-3 px-10 font-bold align-item-left my-5 rounded-3xl mb-5" >
+                                <Link to="/details">
+                                    Details
+                                </Link>
+                                <AiOutlineArrowRight className="ml-5 font-bold" />
+                            </button>
 
 
                             <button onClick={() => setCliked(!cliked)} className="bg-blue-400 rounded-3xl my-5 px-3 transition">
@@ -161,6 +180,8 @@ const Projects = () => {
                                 </a>
                                 <AiOutlineArrowRight className="ml-5 font-bold" />
                             </button>
+
+                            
 
                             <button className="bg-blue-400 rounded-3xl my-5 px-3 transition">
                                 <a href="https://github.com/MohammadIqbalHossain/Space-tourism-site" target="blank">
