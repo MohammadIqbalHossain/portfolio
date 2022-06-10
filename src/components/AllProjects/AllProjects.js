@@ -18,6 +18,7 @@ const AllProjects = () => {
                 ></DisplayAllProjects>)
             }
         </div>
+
     );
 };
 

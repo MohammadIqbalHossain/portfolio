@@ -5,9 +5,9 @@ import './Banner.css'
 
 const Banner = () => {
     return (
-        <div className="w-full flex justify-around items-center h-screen bg-[a]">
-            <div className="md:w-[500px] px-10">
-                <h1 className="thicker-font md:text-[50px] text-[40px] text-left xs:leading-10 leading-tight">Hello, <br /> I am <span className="gradinet-text">Mohammad Iqbal Hossain</span> I am a web Developer</h1>
+        <div className="w-full flex justify-around items-center h-screen bg-[a]" >
+            <div className="md:w-[500px] px-10" data-aos="fade-right">
+                <h1 className="thicker-font md:text-[50px] text-[40px] text-left xs:leading-10 leading-tight" >Hello, <br /> I am <span className="gradinet-text">Mohammad Iqbal Hossain</span> I am a web Developer</h1>
 
                 <p className="text-left  py-5 text-2xl text-gray-400">
                     I am a Mern stack developer. I love to make beautiful UI and develop something that matters. Welcome to my Portdolio.
@@ -21,7 +21,7 @@ const Banner = () => {
                 </button>
 
             </div>
-            <div className="md:w-[550px] ">
+            <div className="md:w-[550px]" data-aos="fade-left">
                 <img className="hidden md:block" src={bannerImage} alt="" />
             </div>
            
