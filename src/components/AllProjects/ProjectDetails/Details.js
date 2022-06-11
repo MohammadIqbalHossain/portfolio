@@ -37,9 +37,10 @@ const Details = () => {
 
                     <article className="max-w-sm mx-auto md:max-w-none grid md:grid-cols-1 gap-6 md:gap-8 lg:gap-12 xl:gap-16 items-center">
 
-                        <div className="flex justify-center ">
+                        <div className="flex justify-center">
                             <img className="transform rounded-lg hover:scale-105 transition duration-700 ease-out" src={filteredProject[0]?.img} width="900" height="600" alt="details about project" />
                         </div>
+
 
                         <div>
                             <header>
